@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/include -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/midnight_movies.dir/src/cast.cpp.o -c /storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/cast.cpp",
+  "file": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/cast.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/include -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/midnight_movies.dir/src/director.cpp.o -c /storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/director.cpp",
+  "file": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/director.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/include -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/midnight_movies.dir/src/main.cpp.o -c /storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/main.cpp",
+  "file": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/main.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/include -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/midnight_movies.dir/src/titles.cpp.o -c /storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/titles.cpp",
+  "file": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/titles.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/include -I/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/midnight_movies.dir/src/writer.cpp.o -c /storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/writer.cpp",
+  "file": "/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/src/writer.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/CMakeFiles/rebuild_cache.dir
+/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/CMakeFiles/edit_cache.dir
+/storage/emulated/0/Android/data/ru.iiec.cxxdroid/files/midnight_movies/CMakeFiles/midnight_movies.dir
